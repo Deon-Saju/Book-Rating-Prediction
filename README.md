@@ -34,8 +34,8 @@ In this project, we applied four machine learning models—Random Forest Regress
 - Numpy = 2.1.1
 - Matplotlib =3.9.2
 - Seaborn = 0.13.2
--  scikit-learn=1.5.2
-- 
+-  Scikit-learn=1.5.2
+
 ## Results
 Of the four models, Random Forest Regressor delivered the best performance with an R² score of 0.96, indicating a very strong fit and highly accurate predictions. XGBoost followed with an R² score of 0.92, showing solid performance but slightly less accurate than Random Forest. Linear Regression, with an R² of 0.59, was notably lower, reflecting its limitations in capturing the data's complexity. AdaBoost Regressor performed the worst, achieving an R² of 0.38, indicating it had difficulty generalizing well to this dataset.
 
