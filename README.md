@@ -28,6 +28,9 @@ In this project, we applied four machine learning models—Random Forest Regress
 
    The dataset was divided into a training set (80%) and a validation set (20%) to ensure thorough model evaluation. The performance of the models was measured using metrics such as Mean Squared Error (MSE) and R-squared (R²).
 
+## Installations used in the Project
+- Python = 3.12.5
+- 
 ## Results
 Of the four models, Random Forest Regressor delivered the best performance with an R² score of 0.96, indicating a very strong fit and highly accurate predictions. XGBoost followed with an R² score of 0.92, showing solid performance but slightly less accurate than Random Forest. Linear Regression, with an R² of 0.59, was notably lower, reflecting its limitations in capturing the data's complexity. AdaBoost Regressor performed the worst, achieving an R² of 0.38, indicating it had difficulty generalizing well to this dataset.
 
